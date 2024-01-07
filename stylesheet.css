@@ -38,6 +38,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-decoration: none;
 }
 
 .navigation ul li a i,.text{
